@@ -15,9 +15,6 @@ Vishwajit Kasotiya is a full stuck developer Gamer and artist from Dholka Ahemed
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kvisvajit1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kvisvajit1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
